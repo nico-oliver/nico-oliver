@@ -18,4 +18,6 @@ TypeScript · Next.js · PostgreSQL · Python · Google Apps Script · Astro · 
 - [Torre de Control](https://github.com/nico-oliver/torre-de-control): panel local que muestra qué sesiones de Claude Code y Codex trabajan ahora, en qué proyecto y qué está esperando una decisión.
 - [Claude Office](https://github.com/nico-oliver/claude-office): oficina en pixel art donde cada sesión de Claude Code del PC es un personaje.
 
+**En mi tiempo libre** publico mods, addons y juegos como [VoltorDev](https://github.com/VoltorDev), con usuarios en plataformas como CurseForge y Nexus Mods. El empaquetado y la publicación están automatizados, con comprobaciones antes de cada subida.
+
 Mallorca, España
